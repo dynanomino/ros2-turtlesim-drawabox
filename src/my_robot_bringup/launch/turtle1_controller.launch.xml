@@ -1,0 +1,9 @@
+<launch>
+
+    <node pkg="turtlesim" exec="turtlesim_node">
+    </node>
+
+    <node pkg="turtlesim_catchemall" exec="turtle1_controller">
+        <param from="$(find-pkg-share my_robot_bringup)/config/turtle1_controller.yaml" />
+    </node>
+</launch>   

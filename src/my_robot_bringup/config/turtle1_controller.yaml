@@ -1,0 +1,4 @@
+/turtle1_controller:
+  ros__parameters:
+    angular_velocity: 0.8
+    linear_velocity: 2.0
