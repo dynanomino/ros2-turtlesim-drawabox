@@ -1,4 +1,4 @@
-# ROS 2 Turtlesim Demo
+# ROS 2 Turtlesim Draw-A-Box Demo
 
 This repo is a three-package ROS 2 (C++) workspace demonstrating basic competency in using topics, services, the publisher-subscriber node architecture, parameters and XML launch files.
 Turtlesim is the target system, instead of a physical hardware setup.
