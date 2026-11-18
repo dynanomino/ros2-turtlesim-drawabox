@@ -5,6 +5,7 @@ Turtlesim is the target system, instead of a physical hardware setup.
 
 The goal is for each spawned turtle robot in Turtlesim to move in a square path, despawned by a service, then a new robot is spawned via another service.
 
+<img width="1280" height="720" alt="ROS2 Turtlesim Box Compress" src="https://github.com/user-attachments/assets/d4a13464-fb6d-4905-b061-b2dc67241fbd" />
 
 ## Architecture
 
